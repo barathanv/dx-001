@@ -1,0 +1,79 @@
+sfdx force:auth:web:login -d -a DevHub
+Adding the -d flag sets this org as the default Dev Hub. Use the -a to set an alias for the org (something catchy like DevHub). An alias is much easier to remember than the unique Dev Hub username.
+
+sfdx force:org:open -u DevHub
+
+sfdx force:auth:web:login -r https://test.salesforce.com -a FullSandbox
+
+sfdx force:limits:api:display -u <Dev Hub username or alias>
+
+---------------------
+sfdx force:project:create -n geolocation
+
+cd geolocation
+
+sfdx force:org:create -s -f config/project-scratch-def.json -a GeoAppScratch
+
+sfdx force:org:open
+
+C:\Barath\Work\Training\DX\th-dx\geolocation\geolocation>sfdx force:org:open
+Access org 00D3D0000009mEJUAY as user barathanv_dx001@gmail.com with the following URL: https://app-saas-3797-dev-ed.cs70.my.salesforce.com/secur/frontdoor.jsp?sid=00D3D0000009mEJ!AQwAQIsnl8RnhiV5tLZbvIbEQe.xxrV53e5lChhMjua9kSYvHFGExkAvGcwzBGrzhmvILO5HANmppzgJVhTo5zMSNMWn1.7Q
+
+sfdx force:user:permset:assign -n Geolocation
+
+sfdx force:source:pull
+----------------------
+------------------------
+git init
+git remote add origin <github ssh url>
+
+git add -A
+git commit -m "Add custom object and permset"
+git push origin master
+------------------------
+---------------------
+mkdir data
+
+sfdx force:data:tree:export -q "SELECT Name, Location__Latitude__s, Location__Longitude__s FROM Account WHERE Location__Latitude__s != NULL AND Location__Longitude__s != NULL" -d ./data
+
+
+
+--------------------------
+sfdx force:data:tree:import --sobjecttreefiles data/Account.json
+
+-----------------------------
+
+sfdx force:apex:class:create -n AccountController -d force-app/main/default/classes
+
+sfdx force:source:push
+
+sfdx force:lightning:component:create -n AccountLocator -d force-app/main/default/aura
+
+sfdx force:source:pull
+
+-------------------------------------
+sfdx force:lightning:component:create -n AccountList -d force-app/main/default/aura
+
+sfdx force:source:push
+
+------------------------------------
+
+sfdx force:lightning:component:create -n AccountMap -d force-app/main/default/aura
+
+sfdx force:lightning:event:create -n AccountsLoaded -d force-app/main/default/aura
+
+sfdx force:source:push
+-----------------------------
+
+sfdx force:org:create -f config/project-scratch-def.json -a GeoTestOrg username=barathanv_dx001_1@gmail.com
+
+sfdx force:source:push -u GeoTestOrg
+
+
+sfdx force:user:permset:assign -n Geolocation -u GeoTestOrg
+
+sfdx force:data:tree:import -f data/Account.json -u GeoTestOrg
+
+sfdx force:org:open -u GeoTestOrg
+
+
