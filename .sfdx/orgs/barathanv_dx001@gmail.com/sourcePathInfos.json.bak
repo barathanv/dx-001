@@ -50,10 +50,10 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1541124871280,
-            "changeTime": 1541124871280,
+            "modifiedTime": 1541124432108,
+            "changeTime": 1541124432108,
             "isWorkspace": false,
-            "contentHash": "7cc4fcb1a38f3c3a85793daabb3f4696b3f126cd"
+            "contentHash": "1a569a10a906d5163f5361c8526496e6f8e70a67"
         }
     ],
     [
@@ -281,14 +281,14 @@
     [
         "C:\\Barath\\Work\\Training\\DX\\th-dx\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
         {
+            "state": "u",
             "sourcePath": "C:\\Barath\\Work\\Training\\DX\\th-dx\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 201,
             "modifiedTime": 1541124515737,
             "changeTime": 1541124515737,
-            "contentHash": "b653a651d8e3ffd78bebd800ab00f8e46a0b360f",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "b653a651d8e3ffd78bebd800ab00f8e46a0b360f"
         }
     ],
     [
@@ -411,14 +411,14 @@
     [
         "C:\\Barath\\Work\\Training\\DX\\th-dx\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Barath\\Work\\Training\\DX\\th-dx\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
             "isDirectory": false,
+            "size": 380,
+            "modifiedTime": 1541105676699,
+            "changeTime": 1541105676699,
+            "contentHash": "565b82975a587e833f528a96a636f7bfb1eb287f",
             "isMetadataFile": false,
-            "size": 594,
-            "modifiedTime": 1541124963487,
-            "changeTime": 1541124963487,
-            "contentHash": "3868852620b194c56dcdac8a54b999a4ac1a7808"
+            "state": "u"
         }
     ],
     [
@@ -476,14 +476,14 @@
     [
         "C:\\Barath\\Work\\Training\\DX\\th-dx\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Barath\\Work\\Training\\DX\\th-dx\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
             "isDirectory": false,
+            "size": 255,
+            "modifiedTime": 1541104657879,
+            "changeTime": 1541104657879,
+            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef",
             "isMetadataFile": false,
-            "size": 395,
-            "modifiedTime": 1541124990943,
-            "changeTime": 1541124990943,
-            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073"
+            "state": "u"
         }
     ],
     [
@@ -814,27 +814,27 @@
     [
         "C:\\Barath\\Work\\Training\\DX\\th-dx\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
         {
+            "state": "u",
             "sourcePath": "C:\\Barath\\Work\\Training\\DX\\th-dx\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1541124432137,
             "changeTime": 1541124432137,
-            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486"
         }
     ],
     [
         "C:\\Barath\\Work\\Training\\DX\\th-dx\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.auradoc",
         {
+            "state": "u",
             "sourcePath": "C:\\Barath\\Work\\Training\\DX\\th-dx\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.auradoc",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1541124432136,
             "changeTime": 1541124432136,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
         }
     ],
     [
@@ -844,62 +844,62 @@
             "sourcePath": "C:\\Barath\\Work\\Training\\DX\\th-dx\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 330,
-            "modifiedTime": 1541125008662,
-            "changeTime": 1541125008662,
-            "contentHash": "9c0b549aa28ba0a5368296b95374b3c5e9e190c3"
+            "size": 256,
+            "modifiedTime": 1541124449771,
+            "changeTime": 1541124449771,
+            "contentHash": "f9b6c3794ae4ae87a33740d78e7022444aea9234"
         }
     ],
     [
         "C:\\Barath\\Work\\Training\\DX\\th-dx\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Barath\\Work\\Training\\DX\\th-dx\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 242,
             "modifiedTime": 1541124432117,
             "changeTime": 1541124432117,
-            "contentHash": "c36ecc6bbe85bd9081a8c38d8427f7e8bbabeec9",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "c36ecc6bbe85bd9081a8c38d8427f7e8bbabeec9"
         }
     ],
     [
         "C:\\Barath\\Work\\Training\\DX\\th-dx\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
         {
+            "state": "u",
             "sourcePath": "C:\\Barath\\Work\\Training\\DX\\th-dx\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1541124499174,
             "changeTime": 1541124499174,
-            "contentHash": "1b7513aa1fdc650ee47e8f91d28905bea72411d1",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "1b7513aa1fdc650ee47e8f91d28905bea72411d1"
         }
     ],
     [
         "C:\\Barath\\Work\\Training\\DX\\th-dx\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.design",
         {
+            "state": "u",
             "sourcePath": "C:\\Barath\\Work\\Training\\DX\\th-dx\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.design",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1541124432140,
             "changeTime": 1541124432140,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
         }
     ],
     [
         "C:\\Barath\\Work\\Training\\DX\\th-dx\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.svg",
         {
+            "state": "u",
             "sourcePath": "C:\\Barath\\Work\\Training\\DX\\th-dx\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.svg",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1541124432132,
             "changeTime": 1541124432132,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
         }
     ],
     [
@@ -909,75 +909,36 @@
             "sourcePath": "C:\\Barath\\Work\\Training\\DX\\th-dx\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 830,
-            "modifiedTime": 1541125023029,
-            "changeTime": 1541125023029,
-            "contentHash": "22f2320dc148f0e43c67b8f5d2dc75933cb07c22"
+            "size": 387,
+            "modifiedTime": 1541124462132,
+            "changeTime": 1541124462132,
+            "contentHash": "d9c003312310adfc8ac80ff9005aba9cc7d51056"
         }
     ],
     [
         "C:\\Barath\\Work\\Training\\DX\\th-dx\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
         {
+            "state": "u",
             "sourcePath": "C:\\Barath\\Work\\Training\\DX\\th-dx\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1541124432123,
             "changeTime": 1541124432123,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
         }
     ],
     [
         "C:\\Barath\\Work\\Training\\DX\\th-dx\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
         {
+            "state": "u",
             "sourcePath": "C:\\Barath\\Work\\Training\\DX\\th-dx\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1541124432129,
             "changeTime": 1541124432129,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\Barath\\Work\\Training\\DX\\th-dx\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Barath\\Work\\Training\\DX\\th-dx\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 0,
-            "modifiedTime": 1541124871284,
-            "changeTime": 1541124871284,
-            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae"
-        }
-    ],
-    [
-        "C:\\Barath\\Work\\Training\\DX\\th-dx\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Barath\\Work\\Training\\DX\\th-dx\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 100,
-            "modifiedTime": 1541124880131,
-            "changeTime": 1541124880131,
-            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4"
-        }
-    ],
-    [
-        "C:\\Barath\\Work\\Training\\DX\\th-dx\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Barath\\Work\\Training\\DX\\th-dx\\geolocation\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 242,
-            "modifiedTime": 1541124871289,
-            "changeTime": 1541124871289,
-            "contentHash": "4b19d3ff07a5d4014613c9c30fffb326546e8c50"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]
